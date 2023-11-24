@@ -1,4 +1,4 @@
-let studentvalues=["thivin","Manoj","Mohan","Ganesh","Pradeep","Mathan"];
+let studentvalues=["Annamalai","Yokesh","Sathish","Manoj","sumanth","Raghavan","Deva"];
 
 var inserting=()=>
 {
